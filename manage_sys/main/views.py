@@ -25,3 +25,4 @@ def login_view(request):
 
 def success_view(request):
     return render(request, 'main/success.html')
+
